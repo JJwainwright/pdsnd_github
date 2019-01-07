@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+1/7/2019
 
 ### Project Title
-Replace the Project Title
+git-project-bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This project will allow you to look at washington,chicago and New York Cities bikeshare statistics.  You will be able to find out things like most popular rental stations, how long the bikes are rented for and gender of your customers. 
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
+Python Final - Bike Share.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Course!
 
