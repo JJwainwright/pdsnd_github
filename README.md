@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Date created
 1/7/2019
 
